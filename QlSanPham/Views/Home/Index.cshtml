@@ -1,0 +1,53 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    Layout = null;
+    
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Category Manager</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="../../css/category.css" rel="stylesheet" />
+</head>
+<body>
+
+<header>
+        <h1 class="text-header">Administrator</h1>
+        <div class="header-button">
+            <button type="button" onclick="document.location='category.cshtml'">Category</button>
+            <button type="button" onclick="document.location='products.cshtml'">Products</button>
+            <button type="button" onclick="document.location.href='https://www.google.com/'">Exit</button>
+        </div>
+    </header>
+    <div class="nav-bar">
+        <h2 style="margin:20px;">Category</h2>
+        <button class="btn-add">Add</button>
+    </div>
+    <table>
+        <tr class="tb-head">
+            <td>Id</td>
+            <td>Name</td>
+            <td>Description</td>
+            <td>Active</td>
+            <td>Display Order</td>
+        </tr>
+
+        @model List<Category>
+        @foreach (var item in Model)
+        {
+            <tr class="tb-data">
+                
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Active</td>
+                <td>@item.Displayorder</td>
+
+            </tr> 
+        }
+
+        
+    </table>
+</body>

@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Thuctap_K62\\Project\\QlSanPham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A63FF790-F95F-4BC2-A6F0-23C4C1E4CB98}|QlSanPham\\QlSanPham.csproj|e:\\thuctap_k62\\project\\qlsanpham\\qlsanpham\\wwwroot\\css\\category.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A63FF790-F95F-4BC2-A6F0-23C4C1E4CB98}|QlSanPham\\QlSanPham.csproj|solutionrelative:qlsanpham\\wwwroot\\css\\category.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63FF790-F95F-4BC2-A6F0-23C4C1E4CB98}|QlSanPham\\QlSanPham.csproj|e:\\thuctap_k62\\project\\qlsanpham\\qlsanpham\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A63FF790-F95F-4BC2-A6F0-23C4C1E4CB98}|QlSanPham\\QlSanPham.csproj|solutionrelative:qlsanpham\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63FF790-F95F-4BC2-A6F0-23C4C1E4CB98}|QlSanPham\\QlSanPham.csproj|e:\\thuctap_k62\\project\\qlsanpham\\qlsanpham\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63FF790-F95F-4BC2-A6F0-23C4C1E4CB98}|QlSanPham\\QlSanPham.csproj|solutionrelative:qlsanpham\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63FF790-F95F-4BC2-A6F0-23C4C1E4CB98}|QlSanPham\\QlSanPham.csproj|e:\\thuctap_k62\\project\\qlsanpham\\qlsanpham\\wwwroot\\css\\category.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63FF790-F95F-4BC2-A6F0-23C4C1E4CB98}|QlSanPham\\QlSanPham.csproj|solutionrelative:qlsanpham\\wwwroot\\css\\category.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A63FF790-F95F-4BC2-A6F0-23C4C1E4CB98}|QlSanPham\\QlSanPham.csproj|e:\\thuctap_k62\\project\\qlsanpham\\qlsanpham\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A63FF790-F95F-4BC2-A6F0-23C4C1E4CB98}|QlSanPham\\QlSanPham.csproj|solutionrelative:qlsanpham\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 6,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Thuctap_K62\\Project\\QlSanPham\\QlSanPham\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "QlSanPham\\Models\\Category.cs",
+              "ToolTip": "E:\\Thuctap_K62\\Project\\QlSanPham\\QlSanPham\\Models\\Category.cs",
+              "RelativeToolTip": "QlSanPham\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:09:56.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "category.css",
+              "DocumentMoniker": "E:\\Thuctap_K62\\Project\\QlSanPham\\QlSanPham\\wwwroot\\css\\category.css",
+              "RelativeDocumentMoniker": "QlSanPham\\wwwroot\\css\\category.css",
+              "ToolTip": "E:\\Thuctap_K62\\Project\\QlSanPham\\QlSanPham\\wwwroot\\css\\category.css",
+              "RelativeToolTip": "QlSanPham\\wwwroot\\css\\category.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-13T18:06:13.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "category.css",
+              "DocumentMoniker": "E:\\Thuctap_K62\\Project\\QlSanPham\\QlSanPham\\wwwroot\\css\\category.css",
+              "RelativeDocumentMoniker": "QlSanPham\\wwwroot\\css\\category.css",
+              "ToolTip": "E:\\Thuctap_K62\\Project\\QlSanPham\\QlSanPham\\wwwroot\\css\\category.css",
+              "RelativeToolTip": "QlSanPham\\wwwroot\\css\\category.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-13T18:06:03.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Thuctap_K62\\Project\\QlSanPham\\QlSanPham\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "QlSanPham\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Thuctap_K62\\Project\\QlSanPham\\QlSanPham\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "QlSanPham\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T17:48:53.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Thuctap_K62\\Project\\QlSanPham\\QlSanPham\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "QlSanPham\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Thuctap_K62\\Project\\QlSanPham\\QlSanPham\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "QlSanPham\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T17:45:42.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
